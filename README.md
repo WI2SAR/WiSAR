@@ -1,7 +1,7 @@
 # "Take Me Home, Wi-Fi Drone": Design and Implementation of an Autonomous Wi-Fi Drone System for Wilderness Search and Rescue
 
 ## Repository Structure
-This repository contains the source code for the Direction Finding Module in our Wi-Fi Drone System. Our paper is under review in Mobisys 2025.
+This repository contains the source code for the Direction Finding Module in our Wi-Fi Drone System. Our paper is under review in Sigcomm 2025.
 
 The repository is structured as follows:
 ```
